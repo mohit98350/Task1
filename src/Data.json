@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "name": "Jeevan",
+      "age": 21,
+      "gender": "male"
+    },
+    {
+      "name": "Piyush",
+      "age": 17,
+      "gender": "male"
+    },
+    {
+      "name": "Arti",
+      "age": 22,
+      "gender": "female"
+    },
+    {
+      "name": "Subham",
+      "age": 21,
+      "gender": "male"
+    },
+    {
+      "name": "Yuvraj",
+      "age": 23,
+      "gender": "male"
+    },
+    {
+      "name": "Arush",
+      "age": 29,
+      "gender": "male"
+    },
+    {
+      "name": "Harshit Singh",
+      "age": 21,
+      "gender": "male"
+    },
+    {
+      "name": "Navya Yadav",
+      "age": 23,
+      "gender": "male"
+    },
+    {
+      "name": "Aryaman Sinha",
+      "age": 29,
+      "gender": "male"
+    },
+    {
+      "name": "Pranay",
+      "age": 21,
+      "gender": "male"
+    },
+    {
+      "name": "Shreya",
+      "age": 23,
+      "gender": "female"
+    }
+  ]
+}
